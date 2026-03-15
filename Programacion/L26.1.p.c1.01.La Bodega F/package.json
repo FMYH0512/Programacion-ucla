@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "la-bodega-f",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/principal.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+  
+}
